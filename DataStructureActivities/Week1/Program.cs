@@ -27,6 +27,13 @@ namespace Week1
             int AddDigits = (n1 + n2);
             
             Console.WriteLine(AddDigits);
+            
+            int n3 = 2;
+            int n4 = 4;
+            
+            int AddDigits1 = (n3 + n4);
+            
+            Console.Writeline(AddDigits1);
 
             return 0;
         }
