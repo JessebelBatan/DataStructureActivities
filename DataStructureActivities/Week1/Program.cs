@@ -20,6 +20,13 @@ namespace Week1
         public static int AddDigits(int n)
         {
             // todo: do your magic here! :)
+            
+            int n1 = 8;
+            int n2 = 3;
+            
+            int AddDigits = (n1 + n2);
+            
+            Console.WriteLine(AddDigits);
 
             return 0;
         }
